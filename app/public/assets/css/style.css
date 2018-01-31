@@ -1,7 +1,13 @@
+/*-----------------------
+----- GENERAL -----
+-------------------------*/
+
 body{
 	font-family: Helvetica, Arial, sans-serif;
-    font-size:18px;
+    font-size:22px;
     background-color: #fff;
+    color: #2d4452;
+
 }
 
 #home{
@@ -11,12 +17,38 @@ body{
 	background-repeat: no-repeat;
 	background-position: center;
 	margin-top: 50px;
+	margin-bottom: 70px;
 }
 #invitation{
-	margin:100px;
+	margin-bottom:100px;
  	color: #2d4452;
 }
 
+#mainContainer{
+
+
+
+}
+
+
+/*-----------------------
+----- HOME -----
+-------------------------*/
 #startButton:hover {
+	opacity: .5;
+}
+
+
+/*-----------------------
+----- SURVEY -----
+-------------------------*/
+
+.form-control{
+	width: 250px;
+	margin-bottom: 30px;
+	margin-top: 20px
+}
+
+#submitButton:hover {
 	opacity: .5;
 }
