@@ -1,0 +1,19 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "dating app",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariela2p/FriendFinder.git"
+  },
+  "author": "Mariela Pascual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariela2p/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/mariela2p/FriendFinder#readme"
+}
