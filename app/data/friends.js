@@ -1,4 +1,4 @@
-var friendsList = [
+var friends = [
    {
       "name":"",
       "photo":"http://boredomtherapy.com/wp-content/uploads/2015/02/04-animal-selfies.jpg",

@@ -51,5 +51,27 @@ margin-bottom: 100px;
 
 #submitButton:hover {
 	opacity: .5;
-	
+
 }
+input[type=text] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    
+}
+
+.form-control{
+    padding: 16px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #eee5de;
+}
+.form-control:focus{
+	background-color: #f4efeb;
+	-webkit-box-shadow: none;
+}
+
